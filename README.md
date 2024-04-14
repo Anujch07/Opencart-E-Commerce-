@@ -5,18 +5,10 @@ This repository contains a list of all the projects completed my during manual t
 # Getting Started
 To view the details of project, simply click on the project name. The project page will be contains brief description of the project.
 
-# Templates
+# Templates 
+* Test Environment
 * Test Plan
 * Test Cases
 * Bug Report
-* RTM
 * Test Report
-* Test Metrics
 
-# Project 1
-* Test Plan
-* Test Cases
-* Bug Report
-* RTM
-* Test Report
-* Test Metrics
