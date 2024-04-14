@@ -7,8 +7,8 @@ To view the details of project, simply click on the project name. The project pa
 
 # Templates 
 * Test Environment
-* Test Plan
+* Test Plan Documents 
 * Test Cases
-* Bug Report
-* Test Report
+* Test Scenarios
+* Bug Report 
 
